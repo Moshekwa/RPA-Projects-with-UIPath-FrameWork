@@ -1,0 +1,2 @@
+1. Tutorials: https://docs.uipath.com/studio/lang-en/v2021.4/docs/tutorials
+2. Academy: https://academy.uipath.com/static-page/5
