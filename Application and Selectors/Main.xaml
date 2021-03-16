@@ -59,7 +59,7 @@
       <AssemblyReference>System.Runtime.WindowsRuntime</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence sap:VirtualizedContainerService.HintSize="375.2,1976.8" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="Calculator Selector" sap:VirtualizedContainerService.HintSize="375.2,1976.8" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <Sequence.Variables>
       <Variable x:TypeArguments="x:Int32" Name="x" />
       <Variable x:TypeArguments="x:Int32" Name="y" />
