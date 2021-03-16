@@ -5309,9 +5309,9 @@
     "restore": {
       "projectUniqueName": "Email Automation",
       "projectName": "Email Automation",
-      "projectPath": "C:\\Users\\malatjm\\Music\\RPA-Projects-with-UIPath-FrameWork\\Email Automation\\.local",
+      "projectPath": "C:\\Users\\malatjm\\Documents\\RPA-Projects-with-UIPath-FrameWork\\Email Automation\\.local",
       "packagesPath": "C:\\Users\\malatjm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\malatjm\\Music\\RPA-Projects-with-UIPath-FrameWork\\Email Automation\\.local"
+      "outputPath": "C:\\Users\\malatjm\\Documents\\RPA-Projects-with-UIPath-FrameWork\\Email Automation\\.local"
     },
     "frameworks": {
       "net461": {
