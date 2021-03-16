@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "x1Z5xWSjf+1K1Ev0OaP5hRcTS8sQH++V1rxUubqr2O9bEyCj97JbGCmoqJWSGM+24lvJfawrA9wc4tbOhRncVA==",
+  "dgSpecHash": "7fatt7jh2HWTLfXBxBnnq75fxu6FC+fs2RtkYvkl4vsVKbUuBcUZpOlOoTSM0l1eOvU4Lb+p4YyKpy1dfHbqkA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\malatjm\\Music\\RPA-Projects-with-UIPath-FrameWork\\Email Automation\\.local\\",
+  "projectFilePath": "C:\\Users\\malatjm\\Documents\\RPA-Projects-with-UIPath-FrameWork\\Email Automation\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\malatjm\\.nuget\\packages\\aforge\\2.2.5\\aforge.2.2.5.nupkg.sha512",
     "C:\\Users\\malatjm\\.nuget\\packages\\aforge.imaging\\2.2.5\\aforge.imaging.2.2.5.nupkg.sha512",
