@@ -5307,11 +5307,11 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "Application and Selectors",
-      "projectName": "Application and Selectors",
-      "projectPath": "C:\\Users\\malatjm\\Documents\\RPA-Projects-with-UIPath-FrameWork\\Application and Selectors\\.local",
+      "projectUniqueName": "Invoice Data Extraction",
+      "projectName": "Invoice Data Extraction",
+      "projectPath": "C:\\Users\\malatjm\\Documents\\RPA-Projects-with-UIPath-FrameWork\\PDF Automation\\Invoice Data Extraction\\.local",
       "packagesPath": "C:\\Users\\malatjm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\malatjm\\Documents\\RPA-Projects-with-UIPath-FrameWork\\Application and Selectors\\.local"
+      "outputPath": "C:\\Users\\malatjm\\Documents\\RPA-Projects-with-UIPath-FrameWork\\PDF Automation\\Invoice Data Extraction\\.local"
     },
     "frameworks": {
       "net461": {

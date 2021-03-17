@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VZh8inMsVkuUpFDQSn8LFHusG5mU0AJX3YWGiSXETmiMc9y8psYP6ctqdMKkdVyM9moErdiF6Qq//9FR5fAviQ==",
+  "dgSpecHash": "/7J84q+z2Fz96Ot1uyDhXWGf87EFT6S1fcXoQ0H82naDG2bhFrr7o7amAXh2ahIkwrOC2w+1Vfa21RPHUooGGw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\malatjm\\Documents\\RPA-Projects-with-UIPath-FrameWork\\Application and Selectors\\.local\\",
+  "projectFilePath": "C:\\Users\\malatjm\\Documents\\RPA-Projects-with-UIPath-FrameWork\\PDF Automation\\Invoice Data Extraction\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\malatjm\\.nuget\\packages\\aforge\\2.2.5\\aforge.2.2.5.nupkg.sha512",
     "C:\\Users\\malatjm\\.nuget\\packages\\aforge.imaging\\2.2.5\\aforge.imaging.2.2.5.nupkg.sha512",
