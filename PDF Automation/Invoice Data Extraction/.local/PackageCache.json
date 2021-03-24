@@ -68,7 +68,7 @@
         "C:\\Users\\malatjm.PROCONICS\\.nuget\\packages\\polly/7.1.0\\lib/netstandard2.0/Polly.dll",
         "C:\\Users\\malatjm.PROCONICS\\.nuget\\packages\\system.collections.immutable/1.5.0\\lib/netstandard2.0/System.Collections.Immutable.dll",
         "C:\\Users\\malatjm.PROCONICS\\.nuget\\packages\\system.io.abstractions/3.0.10\\lib/net40/System.IO.Abstractions.dll",
-        "C:\\Users\\malatjm.PROCONICS\\.nuget\\packages\\system.io.compression/4.3.0\\lib/net46/System.IO.Compression.dll",
+        "C:\\Users\\malatjm.PROCONICS\\.nuget\\packages\\system.io.compression/4.3.0\\runtimes/win/lib/net46/System.IO.Compression.dll",
         "C:\\Users\\malatjm.PROCONICS\\.nuget\\packages\\system.runtime.compilerservices.unsafe/4.7.1\\lib/net461/System.Runtime.CompilerServices.Unsafe.dll",
         "C:\\Users\\malatjm.PROCONICS\\.nuget\\packages\\system.threading.tasks.dataflow/4.10.0\\lib/netstandard2.0/System.Threading.Tasks.Dataflow.dll",
         "C:\\Users\\malatjm.PROCONICS\\.nuget\\packages\\system.threading.tasks.extensions/4.5.4\\lib/net461/System.Threading.Tasks.Extensions.dll",
