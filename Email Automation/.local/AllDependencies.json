@@ -5303,15 +5303,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\malatjm\\.nuget\\packages\\": {}
+    "C:\\Users\\malatjm.PROCONICS\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "Email Automation",
       "projectName": "Email Automation",
-      "projectPath": "C:\\Users\\malatjm\\Documents\\RPA-Projects-with-UIPath-FrameWork\\Email Automation\\.local",
-      "packagesPath": "C:\\Users\\malatjm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\malatjm\\Documents\\RPA-Projects-with-UIPath-FrameWork\\Email Automation\\.local"
+      "projectPath": "D:\\Documents\\RPA-Projects-with-UIPath-FrameWork\\Email Automation\\.local",
+      "packagesPath": "C:\\Users\\malatjm.PROCONICS\\.nuget\\packages\\",
+      "outputPath": "D:\\Documents\\RPA-Projects-with-UIPath-FrameWork\\Email Automation\\.local"
     },
     "frameworks": {
       "net461": {
@@ -5337,7 +5337,7 @@
             "version": "[21.2.0-preview, 21.2.0-preview]"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\malatjm\\AppData\\Local\\UiPath\\app-21.2.0-beta0044\\runtime.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\malatjm.PROCONICS\\AppData\\Local\\UiPath\\app-21.4.0-beta0158\\runtime.json"
       }
     }
   }
